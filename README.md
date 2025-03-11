@@ -24,3 +24,8 @@ git clone <link-do-repositorio>
 # Acessando o repositório
 cd <path-repositorio>
 ```
+
+## Setup
+
+- 1 - Baixar VSCODE
+- 2 - Instalar o GIT
